@@ -1,0 +1,9 @@
+a {
+    color: white;
+    text-decoration: none;
+    background: linear-gradient(90deg, #ff5800, #8b00be);
+        width: 200;
+        padding: 10px 10px;
+        border-radius: 30px;
+        margin: 100px auto;
+}
