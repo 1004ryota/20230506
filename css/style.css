@@ -41,14 +41,14 @@ main{
 img{
     margin: 0 0 0 auto;
     display: block;
-    width: 50%;
-    height: auto;
+    width: 60%;
+    height: 35vw;
     z-index: 10;
 }
 
 .main-box__bottom{
     position: absolute;
-    bottom:15% ;
+    bottom:-20% ;
     height: auto;
     width: 80%;
 }
@@ -64,6 +64,7 @@ img{
 .main-box__bottom-box{
     background-color: blue;
     width:75%;
-    height: auto;
+    height: 12vw;
     z-index: 0;
+    margin-bottom: 1vw;
 }
